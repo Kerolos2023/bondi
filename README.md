@@ -4,7 +4,7 @@
 
 ## 🌐 Live Preview
 
-> Coming soon — deploy on GitHub Pages or Netlify!
+merry-fox-edf45b.netlify.app
 
 ## 🚀 Features
 
@@ -22,9 +22,4 @@
 - Bootstrap 5
 - JavaScript (for interactivity and animation)
 
-
-
-Live Demo
-
-merry-fox-edf45b.netlify.app
 
