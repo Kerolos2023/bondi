@@ -3,8 +3,7 @@
 **Bondi** is a sleek, modern, and fully responsive website template built using **HTML5**, **CSS3**, and **Bootstrap 5**. It’s perfect for landing pages, creative agencies, startups, or personal portfolios.
 
 ## 🌐 Live Preview
-
-merry-fox-edf45b.netlify.app
+https://merry-fox-edf45b.netlify.app/
 
 ## 🚀 Features
 
